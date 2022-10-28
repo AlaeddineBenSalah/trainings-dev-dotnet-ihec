@@ -55,5 +55,8 @@ Console.ReadKey(true);
 dotnet run
 ```
 5. Respond to the prompt by entering a name and pressing the Enter key
+
+![image](https://user-images.githubusercontent.com/79606006/198720962-36f77d40-4ca3-41c6-ade6-8a7ac640e428.png)
+
 6. Press any key to exit the program.
 
