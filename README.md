@@ -1,2 +1,2 @@
-# trainings-dev-dotnet-ihec
+# Trainings-dev-dotnet-ihec
 Labs for .NET students
